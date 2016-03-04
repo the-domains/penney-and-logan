@@ -1,0 +1,28 @@
+name: Penney and Logan
+favicon: null
+layout_spectrum: 0.9259699012618512
+typography_spectrum: 0.25882750283926725
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6683727074414492
+  lightness: 0.11455592582933605
+  saturation: 0.3170220341999084
+  rhythmicContrast: 0.8763046113308519
+purpose: []
