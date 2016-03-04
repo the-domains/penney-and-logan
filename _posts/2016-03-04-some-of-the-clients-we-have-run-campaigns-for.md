@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T01:32:58.858Z'
-dateModified: '2016-03-04T01:32:58.182Z'
+datePublished: '2016-03-04T01:36:41.714Z'
+dateModified: '2016-03-04T01:36:06.789Z'
 title: 'Some of the clients we have run campaigns for:'
 author: []
+sourcePath: _posts/2016-03-04-some-of-the-clients-we-have-run-campaigns-for.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-04-some-of-the-clients-we-have-run-campaigns-for.md
-published: true
 url: some-of-the-clients-we-have-run-campaigns-for/index.html
 _type: Article
 
@@ -28,13 +28,11 @@ _type: Article
 
 Social ads work on an auction system so the more successful your ads are the cheaper they become.​ That's where we come in. We do this all the time and know what works, who to target, how big your target pool should be for a given budget and stay up to date with the constantly changing offerings available. We can pretty much guarantee we can get your per click or per view price down well below what you can get it by doing it for yourself.
 
-We operate like a media buying agency and charge a percentage of your ad spend with no minimum spend so it is an afforable option even for those on the smallest budget and also allows you to run a test campaign at minimal cost to see if it works for you. And with the cheaper prices we can get, we more than cover our percentage so we are basically free!
+We operate like a media buying agency and charge a percentage of your ad spend with no minimum spend so it is an affordable option even for those on the smallest budget and also allows you to run a test campaign at minimal cost to see if it works for you. And with the cheaper prices we can get, we more than cover our percentage so we are basically free!
 
 We also provide advice on content management and setting up your social media profile and can manage content for pages.
 
-If you are interested in this service contact andrew@penneyandlogan.com.au​ [for more info or a chat.][0]
-
-[][1]
+If you are interested in this service contact andrew@penneyandlogan.com.au​ for more info or a chat.
 
 # **Some of the clients we have run campaigns for:**
 
@@ -159,4 +157,3 @@ If you are interested in this service contact andrew@penneyandlogan.com.au​ [f
 * Tania Bosak
 
 [0]: null
-[1]: mailto:andrew@penneyandlogan.com.au
