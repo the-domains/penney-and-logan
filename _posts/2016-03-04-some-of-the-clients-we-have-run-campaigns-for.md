@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T01:36:41.714Z'
-dateModified: '2016-03-04T01:36:06.789Z'
+datePublished: '2016-03-04T01:38:25.951Z'
+dateModified: '2016-03-04T01:37:57.465Z'
 title: 'Some of the clients we have run campaigns for:'
 author: []
 sourcePath: _posts/2016-03-04-some-of-the-clients-we-have-run-campaigns-for.md
@@ -22,7 +22,7 @@ url: some-of-the-clients-we-have-run-campaigns-for/index.html
 _type: Article
 
 ---
-[**Social Media**][0]
+[Social Media][0]
 
 ​​​Since 2011 we have been using social media content and advertising for our management and publicity clients with huge success and have also been offering it as a stand alone service. The combination of precise targeting with very customisable content makes it perfect for advertising arts and entertainment. And unlike most advertisments on social media, people actually want to receive arts and entertainment ads if they are relevant to their tastes.
 
