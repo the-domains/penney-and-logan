@@ -4,21 +4,21 @@
         <description><![CDATA[Penney and Logan]]></description>
         <link>https://thegrid.ai/penney-and-logan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 01:41:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 01:45:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/penney-and-logan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/24126919-5355-4d88-a042-b4cd3f771705.png">]]></description>
+            <link>https://thegrid.ai/penney-and-logan/eef88f7e-ea0d-457a-abd8-92de4a71f887/index.html</link>
+            <guid isPermaLink="false">eef88f7e-ea0d-457a-abd8-92de4a71f887</guid>
+            <pubDate>Fri, 04 Mar 2016 01:44:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Some of the clients we have run campaigns for:]]></title>
             <description><![CDATA[<article><h1>Some of the clients we have run campaigns for:</h1><h2>Festivals</h2><p>Social Media</p></article>]]></description>
             <link>https://thegrid.ai/penney-and-logan/some-of-the-clients-we-have-run-campaigns-for/index.html</link>
             <guid isPermaLink="false">9be6334d-107a-4075-885c-d35b9c8c9ca5</guid>
             <pubDate>Fri, 04 Mar 2016 01:41:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>About Penney and Logan</p>]]></description>
-            <link>https://thegrid.ai/penney-and-logan/eef88f7e-ea0d-457a-abd8-92de4a71f887/index.html</link>
-            <guid isPermaLink="false">eef88f7e-ea0d-457a-abd8-92de4a71f887</guid>
-            <pubDate>Fri, 04 Mar 2016 01:37:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
