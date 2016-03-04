@@ -1,7 +1,7 @@
 name: Penney and Logan
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.25882750283926725
+layout_spectrum: 0.23179
+typography_spectrum: 0.67665
 title: Penney and Logan
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#030303'
+    - '#e4190b'
+    - '#fe7524'
+    - '#fdfdfd'
+    - '#ecc300'
   brandStrength: 0.6683727074414492
   lightness: 0.11455592582933605
   saturation: 0.3170220341999084
