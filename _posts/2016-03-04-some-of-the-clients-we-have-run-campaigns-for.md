@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T01:38:25.951Z'
-dateModified: '2016-03-04T01:37:57.465Z'
+datePublished: '2016-03-04T01:41:41.766Z'
+dateModified: '2016-03-04T01:41:39.202Z'
 title: 'Some of the clients we have run campaigns for:'
 author: []
 sourcePath: _posts/2016-03-04-some-of-the-clients-we-have-run-campaigns-for.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 [Social Media][0]
 
-​​​Since 2011 we have been using social media content and advertising for our management and publicity clients with huge success and have also been offering it as a stand alone service. The combination of precise targeting with very customisable content makes it perfect for advertising arts and entertainment. And unlike most advertisments on social media, people actually want to receive arts and entertainment ads if they are relevant to their tastes.
+​​​Since 2011 we have been using social media content and advertising for our management and publicity clients with huge success and have also been offering it as a stand alone service. The combination of precise targeting with very customisable content makes it perfect for advertising arts and entertainment. And unlike most advertisements on social media, people actually want to receive arts and entertainment ads, if they are relevant to their tastes.
 
 Social ads work on an auction system so the more successful your ads are the cheaper they become.​ That's where we come in. We do this all the time and know what works, who to target, how big your target pool should be for a given budget and stay up to date with the constantly changing offerings available. We can pretty much guarantee we can get your per click or per view price down well below what you can get it by doing it for yourself.
 
