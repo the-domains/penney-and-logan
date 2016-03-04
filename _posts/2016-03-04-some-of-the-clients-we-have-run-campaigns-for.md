@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T01:41:41.766Z'
-dateModified: '2016-03-04T01:41:39.202Z'
+datePublished: '2016-03-04T01:48:58.729Z'
+dateModified: '2016-03-04T01:48:50.350Z'
 title: 'Some of the clients we have run campaigns for:'
 author: []
 sourcePath: _posts/2016-03-04-some-of-the-clients-we-have-run-campaigns-for.md
@@ -34,7 +34,7 @@ We also provide advice on content management and setting up your social media pr
 
 If you are interested in this service contact andrew@penneyandlogan.com.au​ for more info or a chat.
 
-# **Some of the clients we have run campaigns for:**
+# **[Some of the clients we have run campaigns for:][0]**
 
 ## Festivals
 
